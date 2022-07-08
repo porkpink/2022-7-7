@@ -1,3 +1,4 @@
 hello git!
 go forward
 江小培加油油！
+今天是学习git第二天。
